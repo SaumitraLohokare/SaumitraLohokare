@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Saumitra!</h1>
-<h4 align="center">A software developer an also a computer science student at Binghamton University, see my <a href="https://www.dropbox.com/s/c6qn2l9y10t07qc/Final_Resume-V2.pdf?dl=0" target="_blank">resume</a> for more!</h4>
+<h4 align="center">A software developer and also a computer science student at Binghamton University, see my <a href="https://www.dropbox.com/s/c6qn2l9y10t07qc/Final_Resume-V2.pdf?dl=0" target="_blank">resume</a> for more!</h4>
   <h4 align="center">Currently looking for a full-time opportunity in United States</h4>
 </div>
 
