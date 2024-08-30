@@ -1,90 +1,47 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Saumitra!</h1>
-<h4 align="center">A software developer and also a computer science student at Binghamton University, see my <a href="https://www.dropbox.com/s/c6qn2l9y10t07qc/Final_Resume-V2.pdf?dl=0" target="_blank">resume</a> for more!</h4>
-  <h4 align="center">Currently looking for a full-time opportunity in United States</h4>
-</div>
+# Hello, I'm Saumitra 👋
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+Welcome to my GitHub profile! I'm a passionate developer with expertise in a variety of programming languages and technologies. Here's a snapshot of what I do and the skills I bring to the table:
 
------
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">You can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/saumitra-lohokare/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" height="30"/></a>
-      <a href="mailto:slohoka1@binghamton.edu" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Mail" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
+## 🛠️ Skills
 
-<details>
-  <summary>🧮 About</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/SaumitraLohokare" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=SaumitraLohokare&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://www.github.com/SaumitraLohokare"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="github" /></a>
-  </p>
- <p align="center">
-  <a href="github.com/SaumitraLohokare"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/SaumitraLohokare/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumitraLohokare&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="SaumitraLohokare :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/SaumitraLohokare/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaumitraLohokare&theme=gruvbox&layout=compact&hide_border=true"
-          alt="SaumitraLohokare :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaumitraLohokare&theme=gruvbox&layout=compact&hide_border=true"
-          alt="SaumitraLohokare :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>Stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/SaumitraLohokare/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SaumitraLohokare&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaumitraLohokare&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
-</div>
-</details>
-<br/>
-</details> 
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-9B4F96?logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C/C++" />
+</p>
+
+### Libraries & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-Django-092D40?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-NoSQL-2F3A4F?logo=nosql&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+## 🌟 About Me
+
+I'm dedicated to building efficient, scalable, and robust applications. Whether it's crafting a new feature, solving complex problems, or optimizing performance, I'm always up for the challenge.
+
+Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about technology!
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/saumitra-lohokare)
+- [Email](mailto:saumitra.lohokare@gmail.com)
+
+Happy coding! 😄
